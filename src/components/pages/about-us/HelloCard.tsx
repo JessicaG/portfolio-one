@@ -13,13 +13,10 @@ const HelloCard = () => {
       className="about-card card-hello"
     >
       <span className="heading-3">Hello,</span>
-      <h2 className="heading-3">I’m Gole Layla, an Award-Winning</h2>
-      <span className="heading-3">Product Designer.</span>
+      <h2 className="heading-3">I’m Jessica West, an experienced</h2>
+      <span className="heading-3">Developer Experience Leader.</span>
       <p className="textL">
-        As a skilled Product designer, illustrator, and visual development
-        expert, my diverse background has allowed me to apply my talents across
-        different fields and industries, demonstrating adaptability and
-        versatility.
+      Known for a results-driven approach and the ability to galvanize teams for operational excellence. I work tirelessly to collaborate, seamlessly bridging the gap between diverse teams and domains, from product development to marketing and engineering.
       </p>
       <Image
         src={image}

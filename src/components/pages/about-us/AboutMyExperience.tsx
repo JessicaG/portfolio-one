@@ -21,26 +21,81 @@ const AboutMyExperience = () => {
       </div>
 
       <div className="my-experience__content">
-        <MyExperienceItem
-          time="2021 // Now"
-          title="UI Designer"
-          company="Apple"
+      <MyExperienceItem
+          time="2023 // present"
+          title="Consultant"
+          company="West Star Consulting"
+        />
+      <MyExperienceItem
+          time="2024 // present"
+          title="Co-Founder"
+          company="DevEx Institute"
         />
         <MyExperienceItem
-          time="2015 // 2020"
-          title="Front-end Dev"
-          company="Google"
+          time="2022 // 2023"
+          title="Head of Developer Relations"
+          company="Temporal"
         />
         <MyExperienceItem
-          time="2010 // 2015"
-          title="UI/UX Designer"
-          company="Intel"
+          time="2021 // 2022"
+          title="VP of Developer Experience and Customer Education"
+          company="Lacework"
         />
         <MyExperienceItem
-          time="2009 // 2010"
-          title="UI Designer"
-          company="Intel"
+          time="2019 // 2020"
+          title="Head of Developer Relations"
+          company="LaunchDarkly"
         />
+        <MyExperienceItem
+          time="2019 // 2019"
+          title="Director of Advocacy"
+          company="MongoDB"
+        />
+        <MyExperienceItem
+          time="2017 // 2019"
+          title="Lead Developer Advocate"
+          company="Algolia"
+        />
+        <MyExperienceItem
+          time="2016 // 2017"
+          title="Engineering Team Lead"
+          company="ParkiFi"
+        />
+        <MyExperienceItem
+          time="2014 // 2016"
+          title="Senior Software Engineer"
+          company="Redsson"
+        />
+        <MyExperienceItem
+          time="2013 // 2017"
+          title="Community and Sponsorships Lead"
+          company="Colorado Secretary of States Office"
+        />        
+        <MyExperienceItem
+          time="2011 // 2012"
+          title="Senior Data Analytics"
+          company="Oracle"
+        />                
+        <MyExperienceItem
+          time="2012 // 2013"
+          title="Jr Software Engineer"
+          company="Commerce Kitchen"
+        />        
+        <MyExperienceItem
+          time="2009 // 2011"
+          title="Director of E-Commerce Marketing"
+          company="Orion and Prestige Financial Services"
+        />        
+        <MyExperienceItem
+          time="2007 // 2009"
+          title="Director of Marketing"
+          company="Destination Hotels and Resorts"
+        />        
+        <MyExperienceItem
+          time="2005 // 2007"
+          title="Group Sales Manager, West Coast"
+          company="Durango Mountain Resort"
+        />        
       </div>
     </motion.div>
   );

@@ -17,19 +17,19 @@ const AboutWhatIDo = () => {
       <p className="heading-4">What I Do</p>
       <div className="what-i-do__content">
         <div className="what-i-do__content-item">
-          <IconArrowBadgeRight /> <p className="textL">Branding</p>
+          <IconArrowBadgeRight /> <p className="textL">Product Strategy</p>
         </div>
         <div className="what-i-do__content-item">
-          <IconArrowBadgeRight /> <p className="textL">Illustration</p>
+          <IconArrowBadgeRight /> <p className="textL">Developer Community</p>
         </div>
         <div className="what-i-do__content-item">
-          <IconArrowBadgeRight /> <p className="textL">Logo Design</p>
+          <IconArrowBadgeRight /> <p className="textL">Marketing Campaigns</p>
         </div>
         <div className="what-i-do__content-item">
-          <IconArrowBadgeRight /> <p className="textL">Typography</p>
+          <IconArrowBadgeRight /> <p className="textL">Developer Experience</p>
         </div>
         <div className="what-i-do__content-item">
-          <IconArrowBadgeRight /> <p className="textL">Card Design</p>
+          <IconArrowBadgeRight /> <p className="textL">Data Analysis</p>
         </div>
       </div>
       <Image
