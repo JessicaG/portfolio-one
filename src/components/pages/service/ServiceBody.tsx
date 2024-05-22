@@ -9,9 +9,9 @@ import uxDesignImage from "@/../public/image/ui-ux-icon.png";
 import developmentImage from "@/../public/image/web-development-icon.png";
 import { motion } from "framer-motion";
 import Image from "next/image";
-import AboutEducation from "../about-us/AboutEducation";
-import AboutLetsWorks from "../about-us/AboutLetsWorks";
-import ProfileCardAbout from "../about-us/ProfileCardAbout";
+import AboutEducation from "../about/AboutEducation";
+import AboutLetsWorks from "../about/AboutLetsWorks";
+import ProfileCardAbout from "../about/ProfileCardAbout";
 
 const ServiceBody = () => {
   return (
