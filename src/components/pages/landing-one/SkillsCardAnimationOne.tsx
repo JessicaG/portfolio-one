@@ -1,6 +1,6 @@
 "use client";
 import { IconBrandWebflow } from "@tabler/icons-react";
-import { Figma, Framer, Illustrator, Photoshop, Xd } from "iconsax-react";
+import { JavaScript, Broadcast, Chart, CloudConnection, People, Trello } from "iconsax-react";
 
 const sliderOneData = [
   "Developer Experience",
@@ -23,22 +23,58 @@ const sliderOneData = [
 
 export const sliderTwo = [
   {
-    icon: <Figma size="32" />,
+    icon: <JavaScript size="32" />,
   },
   {
-    icon: <Photoshop size="32" />,
+    icon: <Broadcast size="32" />,
   },
   {
-    icon: <Illustrator size="32" />,
+    icon: <Chart size="32" />,
   },
   {
-    icon: <Xd size="32" />,
+    icon: <CloudConnection size="32" />,
   },
   {
-    icon: <Framer size="32" />,
+    icon: <People size="32" />,
   },
   {
-    icon: <IconBrandWebflow size="32" />,
+    icon: <Trello size="32" />,
+  },
+  {
+    icon: <JavaScript size="32" />,
+  },
+  {
+    icon: <Broadcast size="32" />,
+  },
+  {
+    icon: <Chart size="32" />,
+  },
+  {
+    icon: <CloudConnection size="32" />,
+  },
+  {
+    icon: <People size="32" />,
+  },
+  {
+    icon: <Trello size="32" />,
+  },
+  {
+    icon: <JavaScript size="32" />,
+  },
+  {
+    icon: <Broadcast size="32" />,
+  },
+  {
+    icon: <Chart size="32" />,
+  },
+  {
+    icon: <CloudConnection size="32" />,
+  },
+  {
+    icon: <People size="32" />,
+  },
+  {
+    icon: <Trello size="32" />,
   },
 ];
 
