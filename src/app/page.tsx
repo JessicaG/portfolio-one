@@ -7,8 +7,8 @@ import Snowfall from "@/components/shared/Snowfall";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Home One - Grid System Unique Portfolio NextJs Template",
-  description: "NextJs Template",
+  title: "Jessica West personal website",
+  description: "A website resume for Jessica West",
 };
 
 const page = () => {
