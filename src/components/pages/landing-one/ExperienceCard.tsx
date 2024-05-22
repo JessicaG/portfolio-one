@@ -12,9 +12,9 @@ const ExperienceCard = () => {
       className="card-style experience-card"
     >
       <ExperienceCardItem
-        counterNumber={6}
+        counterNumber={20}
         text="YEARS EXPERIENCE"
-        counterElement="0"
+        counterElement=""
       />
       <ExperienceCardItem
         counterNumber={145}
@@ -22,8 +22,8 @@ const ExperienceCard = () => {
         counterElement="+"
       />
       <ExperienceCardItem
-        counterNumber={129}
-        text="CLENTS WORLDWIBE"
+        counterNumber={40}
+        text="STARTUPS ADVISED"
         counterElement="+"
       />
     </motion.div>
