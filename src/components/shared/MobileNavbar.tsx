@@ -18,18 +18,18 @@ const navbarData = [
     icon: <Home2 />,
     menuTitle: "Home",
     path: "#",
-    menuItems: [
-      {
-        id: "homeONe",
-        title: "Home One",
-        menuItemPath: "/",
-      },
-      {
-        id: "homeTwo",
-        title: "Home Two",
-        menuItemPath: "/landing-page-two",
-      },
-    ],
+    // menuItems: [
+    //   {
+    //     id: "homeONe",
+    //     title: "Home One",
+    //     menuItemPath: "/",
+    //   },
+    //   {
+    //     id: "homeTwo",
+    //     title: "Home Two",
+    //     menuItemPath: "/landing-page-two",
+    //   },
+    // ],
   },
   {
     id: "menu2",
@@ -126,7 +126,7 @@ const MobileNavbar = ({
         }`}
       >
         <Link href={`/`} className="d-block logo-main-mobile">
-          Bento<span>X</span>
+          Jessica<span>West</span>
         </Link>
 
         <div className="sidebar-menu-container">
