@@ -16,14 +16,14 @@ const AboutEducation = () => {
       <p className="heading-4 about-education__title">Education</p>
       <div className="about-education__content">
         <AboutContentItem
-          title="Bachelor Degree in Psychology"
-          year="2015 - 2019"
-          university="University of California"
+          title="Back End Engineering"
+          year="2014"
+          university="Turing School of Software Development and Design"
         />
         <AboutContentItem
-          title="Master Degree in Designing"
-          year="2015 - 2019"
-          university="University of California"
+          title="Bachelors of Arts, Tourism Resort Management, Marketing, minor in Accounting and Finance"
+          year="2014 - 2007"
+          university="Fort Lewis College"
         />
       </div>
       <Image

@@ -12,14 +12,14 @@ const ExperienceInNumber = () => {
       className="about-card experience-in-number"
     >
       <ExperienceCardItemAbout
-        counterNumber={7}
+        counterNumber={19}
         text="YEARS EXPERIENCE"
         counterElement="0"
         rightElement="+"
       />
       <ExperienceCardItemAbout
         counterNumber={125}
-        text="TOTAL PROJECTS"
+        text="HUSTLE SCORE"
         counterElement="+"
       />
 
