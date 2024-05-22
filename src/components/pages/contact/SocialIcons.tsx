@@ -1,6 +1,6 @@
 "use client";
 import { motion } from "framer-motion";
-import { Be, Dribbble, Facebook, Instagram, People } from "iconsax-react";
+import { Twitch, People } from "iconsax-react";
 import Link from "next/link";
 
 const SocialIcons = () => {

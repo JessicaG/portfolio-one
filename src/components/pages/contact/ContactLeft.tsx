@@ -13,16 +13,8 @@ const ContactLeft = () => {
       </p>
 
       <div className="m-t-60px contact-info">
-        {/* phone */}
+        {/* email */}
         <motion.div
-          initial={{ borderRadius: 20, opacity: 0, y: -50, scale: 0.5 }}
-          whileInView={{ opacity: 1, y: 0, scale: 1 }}
-          viewport={{ once: true }}
-          transition={{ duration: 0.5 }}
-          className="contact-info__card"
-        >
-          <div className="contact-info__card-icon">
-          <motion.div
           initial={{ borderRadius: 20, opacity: 0, y: -50, scale: 0.5 }}
           whileInView={{ opacity: 1, y: 0, scale: 1 }}
           viewport={{ once: true }}
@@ -35,10 +27,10 @@ const ContactLeft = () => {
           <div className="contact-info__card-info">
             <p className="textLead">Email</p>
             <Link
-              href="mailto:hello@jessicawest.me"
+              href="mailto:hi@jesswe.st"
               className="textM font-thin link"
             >
-              hello@jessicawest.me
+              hi@jesswe.st
             </Link>
           </div>
         </motion.div>
@@ -54,7 +46,7 @@ const ContactLeft = () => {
           </div>
           <div className="contact-info__card-info">
             <p className="textLead">Address</p>
-            <p className="textM font-thin link">Seattle, WA || London, UK </p>
+            <p className="textM font-thin link">Seattle, WA || London, UK</p>
           </div>
         </motion.div>
       </div>
