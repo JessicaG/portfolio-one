@@ -5,24 +5,24 @@ import { usePathname } from "next/navigation";
 import ArrowButton from "../pages/blog-details/ArrowButton";
 
 export const navbarData = [
-  {
-    id: "menu1",
-    menuTitle: "Home",
-    path: "#",
-    // menuItems: [
-    //   {
-    //     id: "homeONe",
-    //     title: "Home One",
-    //     menuItemPath: "/",
-    //   },
-    //   {
-    //     id: "homeTwo",
-    //     title: "Home Two",
-    //     menuItemPath: "/landing-page-two",
-    //   },
-    // ],
-  },
-  {
+  // {
+  //   id: "menu1",
+  //   menuTitle: "Home",
+  //   path: "#",
+  //   // menuItems: [
+  //   //   {
+  //   //     id: "homeONe",
+  //   //     title: "Home One",
+  //   //     menuItemPath: "/",
+  //   //   },
+  //   //   {
+  //   //     id: "homeTwo",
+  //   //     title: "Home Two",
+  //   //     menuItemPath: "/landing-page-two",
+  //   //   },
+  //   // ],
+  // },
+  // {
     id: "about-page",
     menuTitle: "About",
     path: "/about-us",

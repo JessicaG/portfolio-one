@@ -13,24 +13,24 @@ import { Dispatch, SetStateAction, useState } from "react";
 import AnimateHeight from "react-animate-height";
 
 const navbarData = [
-  {
-    id: "menu1",
-    icon: <Home2 />,
-    menuTitle: "Home",
-    path: "#",
-    // menuItems: [
-    //   {
-    //     id: "homeONe",
-    //     title: "Home One",
-    //     menuItemPath: "/",
-    //   },
-    //   {
-    //     id: "homeTwo",
-    //     title: "Home Two",
-    //     menuItemPath: "/landing-page-two",
-    //   },
-    // ],
-  },
+  // {
+  //   id: "menu1",
+  //   icon: <Home2 />,
+  //   menuTitle: "Home",
+  //   path: "#",
+  //   // menuItems: [
+  //   //   {
+  //   //     id: "homeONe",
+  //   //     title: "Home One",
+  //   //     menuItemPath: "/",
+  //   //   },
+  //   //   {
+  //   //     id: "homeTwo",
+  //   //     title: "Home Two",
+  //   //     menuItemPath: "/landing-page-two",
+  //   //   },
+  //   // ],
+  // },
   {
     id: "menu2",
     menuTitle: "Blog",
