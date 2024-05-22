@@ -8,8 +8,8 @@ import { Metadata } from "next";
 import aboutOne from "@/../public/image/about-1.png"
 
 export const metadata: Metadata = {
-  title: "About Us - Grid System Unique Portfolio NextJs Template",
-  description: "NextJs Template",
+  title: "Jessica West personal website",
+  description: "A website resume for Jessica West",
 };
 
 const AboutUs = () => {
