@@ -1,6 +1,6 @@
 "use client";
 import { motion } from "framer-motion";
-import { Twitch, People } from "iconsax-react";
+import { Xrp, People } from "iconsax-react";
 import Link from "next/link";
 
 const SocialIcons = () => {
@@ -27,7 +27,7 @@ const SocialIcons = () => {
       >
         <Link href="https://x.com/jessicaewest" className="social-icon">
           <span className="icon">
-            <Twitch size={24} />
+            <Xrp size={24} />
           </span>
           <p className="textLead icon-name">Twitter</p>
         </Link>

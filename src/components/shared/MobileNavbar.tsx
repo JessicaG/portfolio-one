@@ -78,7 +78,7 @@ const navbarData = [
     id: "about-page",
     icon: <UserSquare />,
     menuTitle: "About",
-    path: "/about-us",
+    path: "/about",
   },
   {
     id: "contact-page",
