@@ -1,6 +1,6 @@
 "use client";
 import { IconBrandWebflow } from "@tabler/icons-react";
-import { JavaScript, Broadcast, Chart, CloudConnection, People, Trello } from "iconsax-react";
+import { JavaScript, Brodcast, Chart, CloudConnection, People, Trello } from "iconsax-react";
 
 const sliderOneData = [
   "Developer Experience",
@@ -26,7 +26,7 @@ export const sliderTwo = [
     icon: <JavaScript size="32" />,
   },
   {
-    icon: <Broadcast size="32" />,
+    icon: <Brodcast size="32" />,
   },
   {
     icon: <Chart size="32" />,
@@ -44,7 +44,7 @@ export const sliderTwo = [
     icon: <JavaScript size="32" />,
   },
   {
-    icon: <Broadcast size="32" />,
+    icon: <Brodcast size="32" />,
   },
   {
     icon: <Chart size="32" />,
@@ -62,7 +62,7 @@ export const sliderTwo = [
     icon: <JavaScript size="32" />,
   },
   {
-    icon: <Broadcast size="32" />,
+    icon: <Brodcast size="32" />,
   },
   {
     icon: <Chart size="32" />,
