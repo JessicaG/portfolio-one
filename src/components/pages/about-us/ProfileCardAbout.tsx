@@ -1,7 +1,7 @@
 "use client";
 import LinkPrimaryTwo from "@/components/shared/LinkPrimaryTwo";
 import { motion } from "framer-motion";
-import { Be, Instagram } from "iconsax-react";
+import { Xrp, People } from "iconsax-react";
 import ProfileIcon from "../landing-one/ProfileIcon";
 
 const ProfileCardAbout = () => {
@@ -14,8 +14,8 @@ const ProfileCardAbout = () => {
       className="about-profile about-card p-32px profile-card"
     >
       <div className="profile-icons">
-        <ProfileIcon icon={<Be size="40" />} socialLink="/" />
-        <ProfileIcon icon={<Instagram size="40" />} socialLink="/" />
+        <ProfileIcon icon={<Xrp size="40" />} socialLink="https://x.com/jessicaewest" />
+        <ProfileIcon icon={<People size="40" />} socialLink="https://www.linkedin.com/in/jessicagwest/" />
       </div>
       <div>
         <p className="textM about-profile__text">Stay With Me</p>

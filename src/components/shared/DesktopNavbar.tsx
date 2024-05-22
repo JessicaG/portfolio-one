@@ -25,7 +25,7 @@ export const navbarData = [
   {
     id: "about-page",
     menuTitle: "About",
-    path: "/about-us",
+    path: "/about",
   },
   {
     id: "menu2",

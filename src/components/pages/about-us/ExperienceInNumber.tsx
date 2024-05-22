@@ -14,7 +14,7 @@ const ExperienceInNumber = () => {
       <ExperienceCardItemAbout
         counterNumber={19}
         text="YEARS EXPERIENCE"
-        counterElement="0"
+        counterElement=""
         rightElement="+"
       />
       <ExperienceCardItemAbout
