@@ -10,19 +10,19 @@ import Image from "next/image";
 const serviceData = [
   {
     image: service1,
-    title: "UI/UX Design",
+    title: "Competitive & Strategic Analysis",
   },
   {
     image: service2,
-    title: "Digital Marketing",
+    title: "Developer Experience Audit & Analysis",
   },
   {
     image: service3,
-    title: "Brand Identity",
+    title: "People Recruitment & Management",
   },
   {
     image: service4,
-    title: "Web Development",
+    title: "Engaging with Developer Community",
   },
 ];
 
@@ -41,7 +41,7 @@ const AllServicesCard = () => {
         ))}
       </div>
       <div className="all-services-card__title">
-        <h2 className="heading-2">Things I’m good at</h2>
+        <h2 className="heading-2">Things I thrive in</h2>
         <Image src={serviceThumb} width={63} height={56} alt="Service Thumbs" />
       </div>
       <LinkPrimary
