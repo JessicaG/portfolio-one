@@ -18,7 +18,7 @@ const Footer = () => {
           </Link>
         </li>
         <li className="landing-footer__menu-item">
-          <Link className="textL" href={`/about-us`}>
+          <Link className="textL" href={`/about`}>
             About
           </Link>
         </li>

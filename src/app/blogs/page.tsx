@@ -1,4 +1,4 @@
-import AboutTopLeftElement from "@/components/pages/about-us/AboutTopLeftElement";
+import AboutTopLeftElement from "@/components/pages/about/AboutTopLeftElement";
 import BlogBody from "@/components/pages/blog/BlogBody";
 import Footer from "@/components/pages/landing-one/Footer";
 import EllipseShapeLandingTwoBottomRight from "@/components/pages/landing-two/EllipseShapeLandingTwoBottomRight";

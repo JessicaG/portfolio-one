@@ -1,5 +1,5 @@
-import AboutTopLeftElement from "@/components/pages/about-us/AboutTopLeftElement";
-import AboutUsBody from "@/components/pages/about-us/AboutUsBody";
+import AboutTopLeftElement from "@/components/pages/about/AboutTopLeftElement";
+import AboutUsBody from "@/components/pages/about/AboutUsBody";
 import Footer from "@/components/pages/landing-one/Footer";
 import EllipseShapeLandingTwoBottomRight from "@/components/pages/landing-two/EllipseShapeLandingTwoBottomRight";
 import LinkBackHome from "@/components/shared/LinkBackHome";

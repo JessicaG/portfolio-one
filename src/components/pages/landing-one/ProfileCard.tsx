@@ -9,7 +9,7 @@ const ProfileCard = () => {
         <ProfileIcon icon={<Xrp size="40" />} socialLink="https://x.com/jessicaewest" />
         <ProfileIcon icon={<People size="40" />} socialLink="https://www.linkedin.com/in/jessicagwest/" />
       </div>
-      <LinkPrimary link="/about-us" linkText="Profiles" />
+      <LinkPrimary link="/about" linkText="Profiles" />
     </div>
   );
 };

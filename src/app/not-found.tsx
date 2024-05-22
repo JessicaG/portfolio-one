@@ -1,4 +1,4 @@
-import AboutTopLeftElement from "@/components/pages/about-us/AboutTopLeftElement";
+import AboutTopLeftElement from "@/components/pages/about/AboutTopLeftElement";
 import NotFoundPage from "@/components/pages/not-found/NotFoundPage";
 import ServiceBottomRight from "@/components/pages/service/AboutTopLeftElement";
 

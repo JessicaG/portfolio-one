@@ -1,4 +1,4 @@
-import AboutTopLeftElement from "@/components/pages/about-us/AboutTopLeftElement";
+import AboutTopLeftElement from "@/components/pages/about/AboutTopLeftElement";
 import ContactBody from "@/components/pages/contact/ContactBody";
 import Footer from "@/components/pages/landing-one/Footer";
 import ServiceBottomRight from "@/components/pages/service/AboutTopLeftElement";
