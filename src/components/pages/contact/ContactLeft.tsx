@@ -13,18 +13,6 @@ const ContactLeft = () => {
       </p>
 
       <div className="m-t-60px contact-info">
-        {/* phone */}
-        <motion.div
-          initial={{ borderRadius: 20, opacity: 0, y: -50, scale: 0.5 }}
-          whileInView={{ opacity: 1, y: 0, scale: 1 }}
-          viewport={{ once: true }}
-          transition={{ duration: 0.5 }}
-          className="contact-info__card"
-        >
-          <div className="contact-info__card-icon">
-  
-          </div>
-        </motion.div>
         {/* email */}
         <motion.div
           initial={{ borderRadius: 20, opacity: 0, y: -50, scale: 0.5 }}
