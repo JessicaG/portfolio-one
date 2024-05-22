@@ -5,27 +5,27 @@ import { usePathname } from "next/navigation";
 import ArrowButton from "../pages/blog-details/ArrowButton";
 
 export const navbarData = [
-  {
-    id: "menu1",
-    menuTitle: "Home",
-    path: "#",
-    menuItems: [
-      {
-        id: "homeONe",
-        title: "Home One",
-        menuItemPath: "/",
-      },
-      {
-        id: "homeTwo",
-        title: "Home Two",
-        menuItemPath: "/landing-page-two",
-      },
-    ],
-  },
+  // {
+  //   id: "menu1",
+  //   menuTitle: "Home",
+  //   path: "#",
+  //   // menuItems: [
+  //   //   {
+  //   //     id: "homeONe",
+  //   //     title: "Home One",
+  //   //     menuItemPath: "/",
+  //   //   },
+  //   //   {
+  //   //     id: "homeTwo",
+  //   //     title: "Home Two",
+  //   //     menuItemPath: "/landing-page-two",
+  //   //   },
+  //   // ],
+  // },
   {
     id: "about-page",
     menuTitle: "About",
-    path: "/about-us",
+    path: "/about",
   },
   {
     id: "menu2",
@@ -57,7 +57,7 @@ const DesktopNavbar = () => {
     <div className="desktop-navbar-container">
       <div>
         <Link href={`/`} className="logo-main">
-          Bento<span>X</span>
+          Jessica<span>West</span>
         </Link>
       </div>
       <ul className="desktop-menu-items" id="primary">

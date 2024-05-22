@@ -13,24 +13,24 @@ import { Dispatch, SetStateAction, useState } from "react";
 import AnimateHeight from "react-animate-height";
 
 const navbarData = [
-  {
-    id: "menu1",
-    icon: <Home2 />,
-    menuTitle: "Home",
-    path: "#",
-    menuItems: [
-      {
-        id: "homeONe",
-        title: "Home One",
-        menuItemPath: "/",
-      },
-      {
-        id: "homeTwo",
-        title: "Home Two",
-        menuItemPath: "/landing-page-two",
-      },
-    ],
-  },
+  // {
+  //   id: "menu1",
+  //   icon: <Home2 />,
+  //   menuTitle: "Home",
+  //   path: "#",
+  //   // menuItems: [
+  //   //   {
+  //   //     id: "homeONe",
+  //   //     title: "Home One",
+  //   //     menuItemPath: "/",
+  //   //   },
+  //   //   {
+  //   //     id: "homeTwo",
+  //   //     title: "Home Two",
+  //   //     menuItemPath: "/landing-page-two",
+  //   //   },
+  //   // ],
+  // },
   {
     id: "menu2",
     menuTitle: "Blog",
@@ -78,7 +78,7 @@ const navbarData = [
     id: "about-page",
     icon: <UserSquare />,
     menuTitle: "About",
-    path: "/about-us",
+    path: "/about",
   },
   {
     id: "contact-page",
@@ -126,7 +126,7 @@ const MobileNavbar = ({
         }`}
       >
         <Link href={`/`} className="d-block logo-main-mobile">
-          Bento<span>X</span>
+          Jessica<span>West</span>
         </Link>
 
         <div className="sidebar-menu-container">

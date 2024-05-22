@@ -11,15 +11,12 @@ const ContactRight = () => {
     e.preventDefault();
 
     emailjs
-      // create a account in https://www.emailjs.com/
-      // follow there documentation get "YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID",  "YOUR_PUBLIC_KEY"
-      // in "YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID",  "YOUR_PUBLIC_KEY"  replace it with actual contents
       .sendForm(
-        "YOUR_SERVICE_ID",
-        "YOUR_TEMPLATE_ID",
+        "service_zncui33",
+        "template_g29dg9x",
         // @ts-ignore
         form?.current,
-        "YOUR_PUBLIC_KEY"
+        "vwxDnFiP-_IWm1Y4h"
       )
       .then(
         (result) => {

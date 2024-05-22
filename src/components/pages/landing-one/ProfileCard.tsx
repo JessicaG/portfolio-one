@@ -1,13 +1,13 @@
 import LinkPrimary from "@/components/shared/LinkPrimary";
-import { Be, Instagram } from "iconsax-react";
+import { Xrp, People } from "iconsax-react";
 import ProfileIcon from "./ProfileIcon";
 
 const ProfileCard = () => {
   return (
     <div className="card-style profile-card">
       <div className="profile-icons">
-        <ProfileIcon icon={<Be size="40" />} socialLink="/" />
-        <ProfileIcon icon={<Instagram size="40" />} socialLink="/" />
+        <ProfileIcon icon={<Xrp size="40" />} socialLink="https://x.com/jessicaewest" />
+        <ProfileIcon icon={<People size="40" />} socialLink="https://www.linkedin.com/in/jessicagwest/" />
       </div>
       <LinkPrimary link="/about-us" linkText="Profiles" />
     </div>
