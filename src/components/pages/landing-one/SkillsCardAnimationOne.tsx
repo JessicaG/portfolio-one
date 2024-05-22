@@ -19,6 +19,14 @@ const sliderOneData = [
   "Developer Onboarding",
   "Data Analysis",
   "Executive Direction",
+  "Developer Experience",
+  "Product Strategy",
+  "Marketing Campaigns",
+  "Developer Community",
+  "Customer Analysis",
+  "Developer Onboarding",
+  "Data Analysis",
+  "Executive Direction",
 ];
 
 export const sliderTwo = [
