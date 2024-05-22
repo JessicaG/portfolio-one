@@ -3,63 +3,25 @@ import { IconBrandWebflow } from "@tabler/icons-react";
 import { Figma, Framer, Illustrator, Photoshop, Xd } from "iconsax-react";
 
 const sliderOneData = [
-  "UX Design",
-  "UI Design",
-  "Product Design",
-  "Workshops",
-  "Design Sprient",
-  "Design",
-  "UX Design",
-  "UI Design",
-  "Product Design",
-  "Workshops",
-  "Design Sprient",
-  "Design",
-  "UX Design",
-  "UI Design",
-  "Product Design",
-  "Workshops",
-  "Design Sprient",
-  "Design",
+  "Developer Experience",
+  "Product Strategy",
+  "Marketing Campaigns",
+  "Developer Community",
+  "Customer Analysis",
+  "Developer Onboarding",
+  "Data Analysis",
+  "Executive Direction",
+  "Developer Experience",
+  "Product Strategy",
+  "Marketing Campaigns",
+  "Developer Community",
+  "Customer Analysis",
+  "Developer Onboarding",
+  "Data Analysis",
+  "Executive Direction",
 ];
 
 export const sliderTwo = [
-  {
-    icon: <Figma size="32" />,
-  },
-  {
-    icon: <Photoshop size="32" />,
-  },
-  {
-    icon: <Illustrator size="32" />,
-  },
-  {
-    icon: <Xd size="32" />,
-  },
-  {
-    icon: <Framer size="32" />,
-  },
-  {
-    icon: <IconBrandWebflow size="32" />,
-  },
-  {
-    icon: <Figma size="32" />,
-  },
-  {
-    icon: <Photoshop size="32" />,
-  },
-  {
-    icon: <Illustrator size="32" />,
-  },
-  {
-    icon: <Xd size="32" />,
-  },
-  {
-    icon: <Framer size="32" />,
-  },
-  {
-    icon: <IconBrandWebflow size="32" />,
-  },
   {
     icon: <Figma size="32" />,
   },

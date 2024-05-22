@@ -7,13 +7,7 @@ const Footer = () => {
         <p className="landing-footer__copyright-text textL">
           Copyright @ {new Date().getFullYear()}{" "}
           <Link href={`/`} className="footer-template-link">
-            BentoX
-          </Link>
-        </p>
-        <p className="landing-footer__design-text textL">
-          Designed By{" "}
-          <Link className="textL" href="/">
-            Pixelaxis
+            JessicaW
           </Link>
         </p>
       </div>
