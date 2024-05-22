@@ -8,7 +8,7 @@ const GetInTouchCard = () => {
       <div className="get-in-touch-card__title-text">
         <p className="heading-4">Work with</p>
         <p className="get-in-touch-card__title-text-two heading-4">
-          Gole Layla...!
+          Jessica West...!
         </p>
       </div>
 
