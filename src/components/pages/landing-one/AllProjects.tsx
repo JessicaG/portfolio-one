@@ -1,5 +1,5 @@
 "use client";
-import allProjectImage from "@/../public/image/all-project-image.png";
+import allProjectImage from "@/../public/image/landing-projects.png";
 import allProjectStars from "@/../public/image/all-project-stars.png";
 import LinkPrimary from "@/components/shared/LinkPrimary";
 import { motion } from "framer-motion";
